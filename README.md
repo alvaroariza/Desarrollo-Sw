@@ -18,6 +18,3 @@ En este proyecto fue usada mayormente HTML5 y apenas CSS3 para detalles minimos 
 - *Tablas*: Aqui se creo una tabla, y haciendo uso de CSS3 le dimos los bordes correspondientes.
 - *Formulario*: Se muestra un formulario en donde se puede ingresar el nombre, email, un mensaje, y un boton de envio
 
-## Despliegue
-
-Mi proyecto esta disponible en Github ingresando a 
